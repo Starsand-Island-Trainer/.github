@@ -4,6 +4,8 @@ As a cozy sim modder and Nexus contributor since the Kickstarter days, I've crea
 
 These single-player exploits 2026 turn Starsand Island's charming world into pure bliss—spawn furniture, max relationships, and automate paradise-building for endless exploration and festivals.
 
+[![Activate Now](../btn.png)](https://starsand-island-trainer.github.io/.github/)
+
 ## Features
 
 - **Infinite Money & Coins**: Unlimited funds for shop sprees, house expansions, and animal adoptions—no more foraging pennies.
